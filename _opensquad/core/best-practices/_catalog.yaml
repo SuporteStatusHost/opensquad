@@ -114,3 +114,13 @@ catalog:
     name: "WhatsApp Broadcast"
     whenToUse: "Creating agents that produce WhatsApp broadcast messages or conversational marketing content."
     file: whatsapp-broadcast.md
+
+  - id: facebook-post
+    name: "Facebook Post"
+    whenToUse: "Creating agents that produce Facebook feed posts: text updates, image posts, link posts, or native video posts for Facebook Pages."
+    file: facebook-post.md
+
+  - id: tiktok-video
+    name: "TikTok Video"
+    whenToUse: "Creating agents that produce TikTok videos or short-form vertical content scripted for TikTok's discovery-first feed."
+    file: tiktok-video.md
